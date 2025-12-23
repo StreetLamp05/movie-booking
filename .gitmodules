@@ -1,0 +1,6 @@
+[submodule "movie-booking-be"]
+	path = movie-booking-be
+	url = git@github.com:StreetLamp05/movie-booking-be.git
+[submodule "movie-booking-fe"]
+	path = movie-booking-fe
+	url = git@github.com:StreetLamp05/movie-booking-fe.git
